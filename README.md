@@ -20,7 +20,7 @@
 
 <hr>
   
-  <img align="right" width = "500cm" height="260cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claramon&layout=compact&langs_count=7&theme=dracula" alt=""/>
+  <img align="right" width = "450cm" height="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claramon&layout=compact&langs_count=7&theme=dracula" alt=""/>
   
 <h3> ✨Back-End</h3>
 <div style="display: inline_block; padding-right:100">
