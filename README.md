@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Maria Clara and I'm a Full Stack Jr. Developer 
+### Hi there 👋 My name is Maria Clara and I'm a Web FullStack Developer 
 
 | <a href="https://github.com/claramon/claramon/blob/main/traducao.md" target="_blank"><i>Clique aqui para ler a Tradução</i></a></h2>
 | -------:
