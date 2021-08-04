@@ -8,7 +8,7 @@
 <h2>Você pode me chamar de <i>Clara</i>✨</h2>
 <h6 align="right"><i>pronomes: ela/dela</i></h6>
   
-<h3> Nesse repositório você encontra meus códigos enquanto estudante de desenvolvimento de softwares, desde que descobri minha nova paixão: programação 💻
+<h3> Nesse repositório você encontra meus códigos enquanto estudante de desenvolvimento de softwares, desde quando descobri minha nova paixão: programação 💻
 
   <hr>
    <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980" height = "240">
