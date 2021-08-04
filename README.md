@@ -10,7 +10,7 @@
 <img align="left" height="215cm" src="https://github-readme-stats.vercel.app/api?username=claramon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
 <p  align="right">
-<h2>You can call me as <i>Clara</i>✨</h2>
+<h2>You can call me <i>Clara</i>✨</h2>
 <h6 align="right"><i>pronouns: she/her</i></h6>
   
 <h3> On this repository you'll find all the coding I've developed as a software/web development student, since I found my newest passion: programming 💻
