@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Maria Clara and I'm a Full Stack Jr. Developer 
 
-| <a href="https://github.com/t4lu/t4lu/tree/traducao" target="_blank"><i>Clique aqui para ler a Tradução</i></a></h2>
+| <a href="https://github.com/claramon/claramon/blob/main/traducao.md" target="_blank"><i>Clique aqui para ler a Tradução</i></a></h2>
 | -------:
 
 
@@ -13,7 +13,7 @@
 <h2>You can call me as <i>Clara</i>✨</h2>
 <h6 align="right"><i>pronouns: she/her</i></h6>
   
-<h3> On this repository you'll find all the coding I've developed as a software/web development student, since I found my newest passion: programing 💻
+<h3> On this repository you'll find all the coding I've developed as a software/web development student, since I found my newest passion: programming 💻
 
   <hr>
    <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980" height = "240">
