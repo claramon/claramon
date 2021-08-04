@@ -40,7 +40,7 @@
 
 ##
   
-<h3> Estou sempre aberta a conversas, dicas, feednacks, etc; sinta-se à vontade para entrar em contato:</h3>
+<h3> Estou sempre aberta a conversas, dicas, feedbacks, etc; sinta-se à vontade para entrar em contato:</h3>
   
 
 <p align="left">
