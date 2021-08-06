@@ -1,4 +1,4 @@
-### Hi there 👋 Meu nome é Maria Clara e sou Desenvolvedora Java Full Stack 
+### Olá!! 👋 Meu nome é Maria Clara e sou Desenvolvedora Java Full Stack 
 
 <h1>Bem-vindes ao meu perfil!✨</h1> <h2>
 
